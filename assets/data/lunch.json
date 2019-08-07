@@ -1,0 +1,8 @@
+{
+    "lunch":
+    [
+        {"food": "Big-Mac", "price": "$9.77","calories": "2232"},
+        {"food": "Portland Jerk", "price": "$10.25","calories": "1132"},
+        {"food": "Island Grill", "price": "$6.90","calories": "532"}
+    ]
+}

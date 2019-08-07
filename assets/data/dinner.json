@@ -1,0 +1,8 @@
+{
+    "dinner":
+    [
+        {"food": "Chicken & Wedges", "price": "$18.77","calories": "932"},
+        {"food": "Bourbon", "price": "$12.99","calories": "1032"},
+        {"food": "Steak", "price": "$24.77","calories": "2232"}
+    ]
+}
